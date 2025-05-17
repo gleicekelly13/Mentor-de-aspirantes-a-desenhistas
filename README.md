@@ -18,3 +18,11 @@
   <li>Interface simples e intuitiva diretamente no Jupyter Notebook.</li>
 </ul>
 <br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<ul>
+  <li>Python</li>
+  <li>Google Gemini</li>
+  <li>Google Colab</li>
+</ul>
+<br>
