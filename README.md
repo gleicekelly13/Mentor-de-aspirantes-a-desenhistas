@@ -22,7 +22,8 @@
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <ul>
   <li>Python</li>
-  <li>Google Gemini</li>
   <li>Google Colab</li>
+  <li>Google Gemini</li>
+  <li>Google AI Studio</li>
 </ul>
 <br>
